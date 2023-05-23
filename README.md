@@ -5,10 +5,14 @@ Python Interpreter: Python 3.10
 
 # Runing UDPclient.py And UDPserver
 
-![{(LCNA)HRSYU00BC95XC4JW](https://github.com/Nanfengzhiwo1/PythonUDP/assets/107869748/6a12d301-e2fd-44dd-8fbc-b03b199cfaf5)
+![8ORF@8(QT9D5Q~I~)WLJGUS](https://github.com/Nanfengzhiwo1/PythonUDP/assets/107869748/26427899-17bf-4265-9ea3-d7b586935c73)
+
+![I M`NCAX7 Z $SA$1COCGKO](https://github.com/Nanfengzhiwo1/PythonUDP/assets/107869748/80083afa-aea0-4bf3-b9a8-4c94ca44a264)
+
 
 # Result
 
-![3ZTK 3X)A~ YVS%V7W`D~_7](https://github.com/Nanfengzhiwo1/PythonUDP/assets/107869748/303b2cab-e96d-4ad5-8cf3-a349819d7d13)
 
-![$WJQ68H}E9{F }76VZ~C6$B](https://github.com/Nanfengzhiwo1/PythonUDP/assets/107869748/07bc4919-b647-4ab0-aeca-2b0695f77aab)
+![6V3UL@CCW)J7~CS} BUC7 0](https://github.com/Nanfengzhiwo1/PythonUDP/assets/107869748/af85f8eb-7d4e-4cc4-bf63-c003582f558e)
+
+![GHJL`5(3({4446Z8IQR)$EU](https://github.com/Nanfengzhiwo1/PythonUDP/assets/107869748/13618587-2b4c-4a7b-8f6e-f017d290d420)
